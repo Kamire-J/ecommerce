@@ -1,7 +1,7 @@
 export const inclusions = [
   {
-    title: 'Free Shipping',
-    description: 'Free shipping for order above $150',
+    title: 'Shipping and Delivery',
+    description: 'Efficient and timely delivery',
     icon: '/assets/icons/shipping.svg',
   },
   {
@@ -11,12 +11,12 @@ export const inclusions = [
   },
   {
     title: 'Online Support',
-    description: '24 hours a day, 7 days a week',
+    description: 'Consistency and quick response',
     icon: '/assets/icons/support.svg',
   },
   {
     title: 'Flexible Payment',
-    description: 'Pay with multiple credit cards',
+    description: 'Pay with multiple cards',
     icon: '/assets/icons/payment.svg',
   },
 ]
