@@ -21,6 +21,7 @@ import classes from './index.module.scss'
 const apiKey = `${process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY}`
 const stripe = loadStripe(apiKey)
 
+
 export const CheckoutPage: React.FC<{
   settings: Settings
 }> = props => {
